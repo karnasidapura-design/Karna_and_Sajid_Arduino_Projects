@@ -1,3 +1,3 @@
-# Karna and Sajid’s Engineering Portfolio
+# Karna and Sajid’s Arduino Coding Projects
 
 Welcome to our project folder!
